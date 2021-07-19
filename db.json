@@ -1,11 +1,13 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "fibra 100"
+    }
+    {
+      "id": 2,
+      "name": "fibra 200"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "schema":"DynamicCart"
 }
